@@ -1,0 +1,5 @@
+
+{{#user}}
+Name: Tejas Srivastava
+Skills: HTML,CSS,JS,Next.js,Python
+Email: tejassrivastava1193@gmail.com
